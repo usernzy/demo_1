@@ -1,0 +1,8 @@
+#person:
+    #lastName: zhangsan
+  #  age: 18
+   # boss: false
+  #  birth: 2019/11/11
+  #  maps: {k1: v1, k2: 55}
+  #  lists:  [-a,-b,-c]
+   # dog: {name: 莎莎,age: 3}
